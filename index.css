@@ -1,0 +1,32 @@
+.banner{
+    background-color: orange;
+    Color: black;
+    margin-top: 75px;
+    text-align:center;
+
+}
+#Max-Dan{
+    height: 100px;
+    width: 100;
+}
+h1{
+    text-align: center;
+    background-color: black;
+    color:beige
+}
+#Salem{
+    color: green;
+    font-size: 100px;
+}
+#Gables{
+        height: 100px;
+        width: 100;
+}
+
+#WitchHouse{
+    height: 100px;
+    width: 100;
+}
+.bold{
+    font-weight: 900;
+}
