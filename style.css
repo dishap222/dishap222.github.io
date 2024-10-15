@@ -1,26 +1,24 @@
 .banner{
     background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Salem_Witch_House_II.jpg/1200px-Salem_Witch_House_II.jpg);
     Color: orange;
+    font-weight: 3000;
     margin-top: 75 px;
     text-align:center;
     height: 10000;
 }
 #Max-Dan{
-    height: 100 px;
-    width: 100;
+    height: 1000 px;
+    width: 1000;
 }
 
 #Gables{
-        height: 100 px;
-        width: 100;
+        height: 1000 px;
+        width: 1000;
 }
 
 #WitchHouse{
-    height: 100 px;
-    width: 100;
-}
-.bold{
-    font-weight: 3000;
+    height: 1000 px;
+    width: 1000;
 }
 h2 {
     text-align: center;
