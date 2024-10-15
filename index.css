@@ -10,8 +10,9 @@
 }
 h1{
     text-align: center;
-    background-color: black;
-    color:beige
+    background-color: Orange;
+    color:beige;
+    background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Salem_Witch_House_II.jpg/1200px-Salem_Witch_House_II.jpg);
 }
 #Salem{
     color: green;
