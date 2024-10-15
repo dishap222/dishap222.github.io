@@ -1,18 +1,13 @@
 .banner{
     background-color: orange;
-    Color: White;
+    background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Salem_Witch_House_II.jpg/1200px-Salem_Witch_House_II.jpg);
+    Color: beige;
     margin-top: 75px;
     text-align:center;
 }
 #Max-Dan{
     height: 100px;
     width: 100;
-}
-h1{
-    text-align: center;
-    background-color: Orange;
-    color:beige;
-    background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Salem_Witch_House_II.jpg/1200px-Salem_Witch_House_II.jpg);
 }
 #Salem{
     color: green;
