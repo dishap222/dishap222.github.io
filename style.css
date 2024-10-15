@@ -8,20 +8,26 @@
 }
 #Max-Dan{
     background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAfQXbGCfOI9NljYebkgmZKhT3Sd4kCS5SWg&s);
+    Color: orange;
+    font-weight: 3000;
     height: 1000 px;
-    width: 1000;
+  
 }
 
 #Gables{
     background-image:url(https://m.media-amazon.com/images/I/71VY5Xepp3L._AC_UF1000,1000_QL80_.jpg);
+     Color: orange;
+    font-weight: 3000;
         height: 1000 px;
-        width: 1000;
+      
 }
 
 #WitchHouse{
     background-image:url(https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/the-salem-witch-house-jeff-folger.jpg);
+     Color: orange;
+    font-weight: 3000;
     height: 1000 px;
-    width: 1000;
+
 }
 h2 {
     text-align: center;
