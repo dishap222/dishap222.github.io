@@ -1,9 +1,10 @@
 .banner{
     background-color: orange;
     background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Salem_Witch_House_II.jpg/1200px-Salem_Witch_House_II.jpg);
-    Color: beige;
+    Color: Orange;
     margin-top: 75px;
     text-align:center;
+    height: 1000;
 }
 #Max-Dan{
     height: 100px;
