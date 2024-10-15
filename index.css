@@ -25,3 +25,8 @@
 .bold{
     font-weight: 900;
 }
+h1{
+    text-align: center;
+    background-color: black;
+    color:beige
+}
